@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application33</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_item1">item1</string>
+    <string name="action_item2">Нitem2</string>
+    <string name="action_item3">item3</string>
+    <string name="mail">mail</string>
+    <string name="TextChek1">Отобразить пункт группы</string>
+    <string name="TextChek2">Отобразить пункт меню</string>
+</resources>
